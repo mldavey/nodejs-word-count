@@ -3,6 +3,10 @@ By: Maureen Davey
 
 This is a node.js script that will return the word count of the file full_text.txt via the command line.
 
+This script is open source, please re-use/modify this script to meet your needs.
+
+Tested with Node.js v4.5.0.
+
 
 ## Installation Instructions
 
